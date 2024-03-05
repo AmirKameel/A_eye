@@ -64,9 +64,9 @@ def main():
     
 
     # Load the YOLOv8 players detection model
-    model_players = YOLO("../models/Yolo8L Players/weights/best.pt")
+    model_players = YOLO("best.pt")
     # Load the YOLOv8 field keypoints detection model
-    model_keypoints = YOLO("../models/Yolo8M Field Keypoints/weights/best.pt")
+    model_keypoints = YOLO("best.pt")
 
 
     st.sidebar.markdown('---')
