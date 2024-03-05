@@ -6,3 +6,4 @@ scikit-image>=0.19.0
 scikit-learn>=0.24.0
 streamlit>=1.10.0
 gunicorn
+streamlit_image_coordinates
