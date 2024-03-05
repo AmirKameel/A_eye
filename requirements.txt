@@ -1,3 +1,4 @@
+python 
 torch
 ultralytics
 python-opencv
